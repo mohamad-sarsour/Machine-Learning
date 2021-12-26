@@ -1,8 +1,11 @@
- ## using the prepared data from the prevoius section our classification tasks for every patient is :
+ ## Using the prepared data from the prevoius section our classification tasks for every patient is:
  ###### 
 • Detect virus type and presence
+
 • Decide whether he is “at risk” patient
+
 • Decide whether he is a potentially “super-spreader”
+
 • Identify which factors (features) are more significant for the above classification tasks
 ###### i have done the following steps :
 1. Load the preprocessed training set
