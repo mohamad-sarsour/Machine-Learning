@@ -1,4 +1,4 @@
- ## Using the prepared data from the prevoius section our classification tasks for every patient is:
+ ## Using the prepared data from the prevoius section our classification tasks for every patient:
  ###### 
 • Detect virus type and presence
 
